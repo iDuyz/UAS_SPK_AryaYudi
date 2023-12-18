@@ -1,0 +1,6 @@
+INSERT INTO smartphonepoco (brand,ram,prosesor,storage,baterai,harga,ukuran_layar) VALUES
+	 ('POCO F5','16 GB','Qualcomm Snapdragon 7+ Gen 2','256 GB','5.000 mAh','Rp.4.999.000','6.5 inch'),
+	 ('POCO M5','4 GB','MediaTek Helio G99','64 GB','6.000 mAh','Rp.1.299.000','6.5 inch'),
+	 ('POCO X5 Pro 5G','8 GB','Qualcomm Snapdragon 778G','256 GB','5.500 mAh','Rp.3.999.000','6.4 inch'),
+	 ('POCO X5 5G','6 GB','Qualcomm Snapdragon 695G','128 GB','4.500 mAh','Rp.2.999.000','6.5 inch'),
+	 ('POCO X3 Pro','8 GB','Qualcomm Snapdragon 860G','128 GB','5.500 mAh','Rp.3.999.000','6.4 inch');
